@@ -1,0 +1,23 @@
+{
+  "site_config": {
+    "title": "Nazwa strony",
+    "name" : "Nazwa systemu"
+  },
+  "user_info": {
+    "name": "Mateusz",
+    "surname": "Kaminski"
+  },
+
+  "main_menu":[
+    {
+      "name":"Dashboard",
+      "link":"/",
+      "ico":"fa-dashboard"
+    },
+    {
+      "name":"Link 2",
+      "link":"/aaa",
+      "ico":"fa-th"
+    }
+  ]
+}
